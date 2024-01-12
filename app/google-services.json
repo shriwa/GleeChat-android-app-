@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "15061256444",
+    "project_id": "gleechat-f26a9",
+    "storage_bucket": "gleechat-f26a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15061256444:android:7f384b14b0b321c2862f79",
+        "android_client_info": {
+          "package_name": "com.example.gleechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15061256444-972l0cjsm7ihckdagjlmlj68p0hg6drc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnVekxVFDCJB_6mYnxXEUDUiBExUrqXW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15061256444-972l0cjsm7ihckdagjlmlj68p0hg6drc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

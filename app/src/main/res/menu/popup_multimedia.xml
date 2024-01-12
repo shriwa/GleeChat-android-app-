@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/layoutLocation"
+        android:title="Share"
+        android:enabled="true"
+        android:icon="@drawable/ic_share"
+        app:showAsAction="ifRoom">
+
+        <menu>
+            <item android:id="@+id/image"
+                android:title="Image"
+                android:orderInCategory="100"
+                android:icon="@drawable/ic_image"
+                app:showAsAction="always"/>
+
+            <item android:id="@+id/video"
+                android:title="Video"
+                android:orderInCategory="100"
+                android:icon="@drawable/ic_video"
+                app:showAsAction="always"/>
+
+            <item android:id="@+id/location"
+                android:title="Location"
+                android:orderInCategory="100"
+                android:icon="@drawable/ic_location_2"
+                app:showAsAction="always"/>
+
+            <item android:id="@+id/contact"
+                android:title="Contact"
+                android:orderInCategory="100"
+                android:icon="@drawable/ic_contact"
+                app:showAsAction="always"/>
+
+            <item android:id="@+id/document"
+                android:title="Document"
+                android:orderInCategory="100"
+                android:icon="@drawable/ic_document"
+                app:showAsAction="always"/>
+
+        </menu>
+
+    </item>
+
+</menu>

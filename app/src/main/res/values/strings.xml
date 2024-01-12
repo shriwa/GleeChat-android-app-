@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GleeChat</string>
+    <string name="Welcome_Back">Welcome Back</string>
+    <string name="welcome_back">Welcome!</string>
+    <string name="Login">Please Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_account">Create an account</string>
+    <string name="add_image">Add Image</string>
+    <string name="Name">Name</string>
+    <string name="Confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="select_user">select user</string>
+    <string name="type_something">Type something</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="online">Online</string>
+</resources>
